@@ -1,0 +1,49 @@
+h1, h2 {
+  font-family: 'arial', sans-serif;
+}
+body {
+  background-color: rgb(201, 169, 209);
+  color: #575F7D;
+  font-family: 'arial', sans-serif
+  font-size 18px;
+  font-weight: lighter;
+}
+h1 {
+  color: #575F7D;
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 2
+}
+h2 {
+  font-weight: bold;
+  font-size: 20px;
+}
+p {
+  margin-top: 12px;
+}
+.container {
+  padding : 18px;
+  margin : 18px;
+}
+.card {
+  text-align: center;
+  margin-top: 16px;
+  border: none
+}
+.profile_picture {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 16px;
+  margin-top: 8px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  display: inline-block;
+}
+
